@@ -4,4 +4,4 @@ I had to deal with many categorical features of this dataset. The hardest part i
 2. Model selection</br>
 There were 3 models used for predicting the target. Finally, **Random Forest** was chosen with mean square error: `4.786`
 # Model Mean Square Error:
-![image](https://github.com/DuyAccel/Into_Machine_Learning_SGU/assets/84909478/eadace8a-3ec7-4e8b-9bae-dc768fd053fe)
+![image](https://github.com/DuyAccel/Into_Machine_Learning_SGU/assets/84909478/944a2b35-35ec-45eb-8433-667159842ff0)
